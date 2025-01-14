@@ -25,7 +25,7 @@ Tweaker for network optimization and disk cleanup to improve performance.
 * Set Best Regedit Configs (For best connection and ms)
 * Hit's Regedit (Regedit that improves hit detections)
 * Sumo Regedit (Regedit for play Sumo includes reduce kb)
-* Big Latency (Regedit that improves hit detections)
+* Big Latency (Make the connection a little more delayed)
 <br>
 ⚠ Warning: Be careful what you change using the tweaker, create a backup and restore point before making changes.
 <br>
@@ -48,8 +48,6 @@ Tweaker for network optimization and disk cleanup to improve performance.
 Discord: [Support](https://discord.gg/ZkpFeA8T6a)
 <br>
 E-mail: maczxsoft@gmail.com
-<br>
-<br>
 <br>
 <br>
 <br>
