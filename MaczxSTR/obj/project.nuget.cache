@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3QByHaO8xw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YunXZ\\source\\repos\\MaczxSTR\\MaczxSTR\\MaczxSTR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YunXZ\\.nuget\\packages\\krypton.toolkit\\90.24.11.317\\krypton.toolkit.90.24.11.317.nupkg.sha512",
+    "C:\\Users\\YunXZ\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\YunXZ\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
