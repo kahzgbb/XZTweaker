@@ -37,6 +37,8 @@ Tweaker for network optimization and disk cleanup to improve performance.
 * Alternative DNS 2 (Google Public)
 * Best Regedit (For best connection and ms)
 * Best Packages (Set Better connection and packet reception)
+### Test your ms in domains
+#### In the DNS tab, in the textbox where it says google.com, change it to the domain you want to test the ping for and start the test.
 
 ## Performance
 * Set Energy Plan (Enables maximum performance mode)
