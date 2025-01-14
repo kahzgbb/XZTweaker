@@ -1,8 +1,0 @@
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.csproj.AssemblyReference.cache
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.Form1.resources
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.Properties.Resources.resources
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.csproj.GenerateResource.cache
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.AssemblyInfoInputs.cache
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.AssemblyInfo.cs
-C:\Users\YunXZ\source\repos\MaczxSTR\MaczxSTR\obj\Release\net5.0-windows7.0\MaczxSTR.csproj.CoreCompileInputs.cache
