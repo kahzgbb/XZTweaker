@@ -12,16 +12,16 @@ Tweaker for network optimization and disk cleanup to improve performance.
 
 * Clear Prefetch
 * Clear Temp
+* Clear JumpList
+* Clear Recent
+* Clear CrashDump
 * Clear Logs (Event Viewer General logs)
 * Clear Win+R (Execute Menu History)
-* Clear Recent
 * Clear SoftDistrib (Software Distribution Logs)
 * Clear Recycle Bin (Clean up traces of deleted files)
-* Clear JumpList
 * Clear Shell Log (Clear logs of powershell commands)
 * Clear AppInstall (App install Cache)
 * Clear SysTemp (Clear System Temporary Logs)
-* Clear CrashDump
 * Clear Report Logs (App Report Logs)
 
 ## Regedits (Minecraft)
