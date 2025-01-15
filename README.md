@@ -3,6 +3,9 @@ Tweaker for network optimization and disk cleanup to improve performance.
 
 ### Release versions
 #### Version 1.0 (lxwh7z)
+
+## How to Download?
+#### Go to [Releases]()
 -----------------------------------------------
 
 # Features
