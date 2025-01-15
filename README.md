@@ -5,7 +5,7 @@ Tweaker for network optimization and disk cleanup to improve performance.
 #### Version 1.0 (lxwh7z)
 
 ## How to Download?
-#### Go to [Releases]()
+#### Go to [Releases](/releases/tag/Release) and just download XZTWeaker.zip
 -----------------------------------------------
 
 # Features
