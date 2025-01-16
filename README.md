@@ -1,22 +1,33 @@
+<h1 align="center">
+	XZTweaker
+</h1>
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe" target="_blank">
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
-		<br>
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
-	</a>
+	Tweaker for network optimization and disk cleanup to improve performance.
 </p>
+</br>
 
-Tweaker for network optimization and disk cleanup to improve performance.
-
-### Release versions
+## ℹ Release versions
 #### Version 2.0 (azxnKS)
 #### Version 1.0 (lxwh7z) [Legacy]
+</br>
 
-## How to Download?
-#### Go to [Releases](https://github.com/kahzgbb/XZTweaker/releases/tag/Release) and just download XZTWeaker.zip
+## 📥 How to Download?
+#### Go to [Releases](https://github.com/kahzgbb/XZTweaker/releases/tag/Release) and download the lastest version.
 -----------------------------------------------
 
-## as
+## Changelogs (2.0)
+* More settings for clearing histories.
+* More DNS available for use.
+* Minecraft regedits moved to a specific tab.
+* New latency regedits, improve connection and for minecraft.
+* New updates available for your computer to improve performance and maximize fps and ping.
+* New disk tab to free up space on your computer by removing cache, temporary and unnecessary files.
+* Improved font and changed icons.
+* Specific user privacy tab to permanently delete data, clear history and more.
+* Add full cleaning function to save time.
+* You can now see various specifications of your machine.
+* Program rewritten using Windows Forms .NET to avoid having to download dependencies and leaving the file working completely empty.
+* New option to search for better DNS.
 # Features
 
 * Clear Prefetch
