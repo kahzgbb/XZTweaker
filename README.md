@@ -1,13 +1,15 @@
-# XZTweaker
+<h1 style="align: center">XZTweaker</h1>
 Tweaker for network optimization and disk cleanup to improve performance.
 
 ### Release versions
-#### Version 1.0 (lxwh7z)
+#### Version 2.0 (azxnKS)
+#### Version 1.0 (lxwh7z) [Legacy]
 
 ## How to Download?
 #### Go to [Releases](https://github.com/kahzgbb/XZTweaker/releases/tag/Release) and just download XZTWeaker.zip
 -----------------------------------------------
 
+## as
 # Features
 
 * Clear Prefetch
